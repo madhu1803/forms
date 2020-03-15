@@ -1,0 +1,3 @@
+flask
+WTForms
+mysql_connector
